@@ -1,2 +1,1 @@
-# cola
-This is a repository for a 3D python turtle mechanics
+This is a repository for a 3D python turtle mechanics. These files are for a simulation of different 3D objects and 3D perspective differences. The objects are; a cube, an hourglass (triangle thing) and a star. It rotates and/ or moves them around the screen. The values for the object speed are a times value so 1 would keep the speed the same, 2 would double it and 0.5 would half it. You can find the code in 3D.py and follow the link to the demo for the executable. The 3D.py contains trigonometry values to configure a 3D change on a 2D environment on turtle.
